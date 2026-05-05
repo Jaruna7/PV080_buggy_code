@@ -35,7 +35,7 @@ def fetch_website(urllib_version, url):
 
 
 def load_yaml(filename):
-    """sdvsdv"""
+    """sdvsdggv"""
     stream = open(filename)
     deserialized_data = yaml.load(stream, Loader=yaml.Loader) #deserializing data
     return deserialized_data
